@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "583083544478",
+    "firebase_url": "https://tugas-besar-2656a-default-rtdb.firebaseio.com",
+    "project_id": "tugas-besar-2656a",
+    "storage_bucket": "tugas-besar-2656a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583083544478:android:2be56612e9efbe0405508f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583083544478-fqm6hm0rc3i8hj8vir5ie4fk8kq99917.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbRkpsUOPvMMWc0W5gI3tDZjpq7e7Cnjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583083544478-fqm6hm0rc3i8hj8vir5ie4fk8kq99917.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583083544478:android:a808154208d5259605508f",
+        "android_client_info": {
+          "package_name": "com.example.tb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583083544478-fqm6hm0rc3i8hj8vir5ie4fk8kq99917.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbRkpsUOPvMMWc0W5gI3tDZjpq7e7Cnjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583083544478-fqm6hm0rc3i8hj8vir5ie4fk8kq99917.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583083544478:android:27514bb27ec6232d05508f",
+        "android_client_info": {
+          "package_name": "com.example.uas_akb_if1_10119015"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583083544478-fqm6hm0rc3i8hj8vir5ie4fk8kq99917.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbRkpsUOPvMMWc0W5gI3tDZjpq7e7Cnjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583083544478-fqm6hm0rc3i8hj8vir5ie4fk8kq99917.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583083544478:android:7b2399d3fa54f0f605508f",
+        "android_client_info": {
+          "package_name": "studio.wisata.radar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583083544478-fqm6hm0rc3i8hj8vir5ie4fk8kq99917.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbRkpsUOPvMMWc0W5gI3tDZjpq7e7Cnjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583083544478-fqm6hm0rc3i8hj8vir5ie4fk8kq99917.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

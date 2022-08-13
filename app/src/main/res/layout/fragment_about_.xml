@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.About_Fragment">
+
+    <ImageView
+        android:id="@+id/imgbook"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:src="@drawable/book"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="30dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imgbook"
+        android:layout_marginTop="50dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:textSize="20dp"
+        android:gravity="center_horizontal"
+        android:text="Aplikasi Notebook versi 1.0 ini dibuat menggunakan bahasa pemrograman java dan menggunkan SDK API 32 atau android 10. "
+        android:textColor="@color/black"
+        />
+
+</RelativeLayout>

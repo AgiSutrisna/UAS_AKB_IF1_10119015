@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Fragment.Profile_Fragment">
+
+    <RelativeLayout
+        android:id="@+id/lyft"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+       >
+
+        <ImageView
+            android:id="@+id/foto"
+            android:layout_width="wrap_content"
+            android:layout_height="211dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/foto"
+            app:layout_constraintStart_toStartOf="parent" />
+
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="4000dp"
+        android:layout_height="250dp"
+        android:layout_below="@id/lyft"
+        android:orientation="vertical"
+        android:layout_marginTop="25dp"
+        android:paddingLeft="100dp"
+        android:gravity="center_vertical"
+
+        >
+        <TextView
+            android:id="@+id/Nama"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nama  : Agi Sutrisna"
+            android:textSize="17dp"
+            android:layout_below="@id/foto"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:id="@+id/Nim"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nim      : 10119015"
+            android:textSize="17dp"
+            android:layout_marginTop="17dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+
+            />
+        <TextView
+            android:id="@+id/Kelas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kelas    : IF1"
+            android:textSize="17dp"
+            android:layout_marginTop="17dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+
+            />
+
+        <TextView
+            android:id="@+id/Email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Email    : agi.10119015@gmail.com"
+            android:textSize="17dp"
+            android:layout_marginTop="17dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+
+            />
+
+    </LinearLayout>
+
+
+</RelativeLayout>
